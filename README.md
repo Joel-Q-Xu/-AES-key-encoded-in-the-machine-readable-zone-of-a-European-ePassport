@@ -32,6 +32,6 @@ H.	利用AES.new(key，AES.MODE_CBC,IV).decrypt(ciphertext)函数解密新密文
  
 得到明文：Herzlichen Glueckwunsch. Sie haben die Nuss geknackt. Das Codewort lautet: Kryptographie
 
-question2：Cracking SHA1-Hashed Passwords
+question2：Cracking SHA1-Hashed Passwords——crack_sha1.py
 https://www.mysterytwisterc3.org/en/challenges/level-ii/cracking-sha1-hashed-passwords
 很简单
