@@ -1,4 +1,4 @@
-#
+#the challenge of MT3-mysterytwisterc3
 question1-AES-key-encoded-in-the-machine-readable-zone-of-a-European-ePassport——huzhao.py
 https://www.mysterytwisterc3.org/en/challenges/level-ii/aes-key--encoded-in-the-machine-readable-zone-of-a-european-epassport?showAll=1
 1、	AES加密模式为CBC，初始化矢量即IV为零，填充为01-00）。此外，相应的密钥在身份证件上的机器可读区域（MRZ）等表格中，它与欧洲的电子护照一起使用时并不十分完整。
