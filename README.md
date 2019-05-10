@@ -37,3 +37,4 @@ https://www.mysterytwisterc3.org/en/challenges/level-ii/cracking-sha1-hashed-pas
 很简单<br>
 优化后代码：<br>
 bettersha1.py<br>
+### 如果对你有帮助的话，请点赞哦<br>
